@@ -9,23 +9,15 @@ A phylogenetic tree of all cyclase sequences was used to identify cyclase clades
 
 ```
 Usage:
-  python fastaClades2info.py --baits <FILE> --out <DIR> [--subject <FILE>|--subjectdir <DIR>]
-
-Mandatory (option1):
-  --baits      STR         A multiple FASTA file. 
-  --out        STR         Directory for temporary and output files.
-  --subject    STR         Subject sequence file.
-
-Mandatory (option2):
-  --baits      STR         A multiple FASTA file. 
-  --out        STR         Directory for temporary and output files.
-  --subjectdir STR         Folder containing subject sequence files.
-
-Optional:
-    --number STR        Number of BLAST hits to consider.[10]
+  python fastaClades2info.py --fasta <DIR> --out <FILE>
+  
+  --fasta  STR   FASTA file input folder
+	--out    STR   Output file
 ```
 
-`--baits` FASTA file containing the bait sequences.
+`--fasta` specifies a FASTA file containing folder.
+
+`--out` specifies the output file (mapping file) that assigns cyclase sequence IDs to phylogenetic clades.
 
 
 ## DeepTMHMM result mapper
