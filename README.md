@@ -26,13 +26,23 @@ Script for mapping of DeepTMHMM results to a phylogenetic tree. This script allo
 
 ```
 Usage:
-  python DeepTMHMM2tree.py --fasta <DIR> --out <FILE>
+  python DeepTMHMM2tree.py --tmr <FILE> --out <DIR>
   
-  --fasta  STR   FASTA file input folder
-  --out    STR   Output file
+  --tmr    STR   GFF3 input file
+  --out    STR   Output folder
+  
+  optional:
+  --info   STR   Info file (clade mapping)
+	--name   STR   File name prefix
 ```
 
-`--fasta` specifies xxx.
+`--tmr` specifies the output file of DeepTMHMM which is a GFF3 file.
+
+`--out` specifies the output folder where the result files of this mapping will be placed. Result files can be imported into iTOL as annotation files.
+
+`--info` specifies the clade mapping file to include phylogenetic information in the annotation file.
+
+`--name` specifies a file name prefix.
 
 
 
