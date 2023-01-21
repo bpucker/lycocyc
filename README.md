@@ -15,12 +15,25 @@ Usage:
   --out    STR   Output file
 ```
 
-`--fasta` specifies a FASTA file containing folder.
+`--fasta` specifies a FASTA file containing folder. The IDs in these FASTA files need to match the IDs in other analyses. The clade name is inferred from the filename.
 
-`--out` specifies the output file (mapping file) that assigns cyclase sequence IDs to phylogenetic clades.
+`--out` specifies the output file (mapping file) that assigns cyclase sequence IDs to phylogenetic clades. Sequence IDs are given in column1, clade names are given in column2.
 
 
 ## DeepTMHMM result mapper
+
+Script for mapping of DeepTMHMM results to a phylogenetic tree. This script allows the integration of information about phylogenetic clades of the sequences.
+
+```
+Usage:
+  python DeepTMHMM2tree.py --fasta <DIR> --out <FILE>
+  
+  --fasta  STR   FASTA file input folder
+  --out    STR   Output file
+```
+
+`--fasta` specifies xxx.
+
 
 
 ## References
