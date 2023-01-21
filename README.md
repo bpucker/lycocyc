@@ -12,7 +12,7 @@ Usage:
   python fastaClades2info.py --fasta <DIR> --out <FILE>
   
   --fasta  STR   FASTA file input folder
-	--out    STR   Output file
+  --out    STR   Output file
 ```
 
 `--fasta` specifies a FASTA file containing folder.
