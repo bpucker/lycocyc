@@ -1,0 +1,116 @@
+Korarchaeum_cryptofilum	GCF_003948265.1	ASM394826v1
+Desulfurococcus_amylolyticus	GCF_000231015.2	ASM23101v3
+Desulfurococcus_mucosus	GCF_000186365.1	ASM18636v1
+Halobacterium_salinarum	GCF_004799605.1	ASM479960v1
+Haloferax_volcanii	GCF_000025685.1	ASM2568v1
+Haloquadratum_walsbyi	GCF_000009185.1	ASM918v1
+Methanobrevibacter_arboriphilus	GCF_019669925.1	ASM1966992v1
+Methanobrevibacter_smithii	GCF_000016525.1	ASM1652v1
+Methanococcus_maripaludis	GCF_002945325.1	ASM294532v1
+Nanobdella_aerobiophila	GCF_023169545.1	ASM2316954v1
+Sulfolobus_acidocaldarius	GCF_002215565.1	ASM221556v1
+Sulfolobus_islandicus	GCF_000024305.1	ASM2430v1
+Thermoproteus_tenax	GCF_000253055.1	ASM25305v1
+Thermoproteus_uzoniensis	GCF_000193375.1	ASM19337v1
+Vulcanisaeta_distributa	GCF_000148385.1	ASM14838v1
+Agromyces_mediolanus	GCF_014648575.1	ASM1464857v1
+Aquifex_aeolicus	GCF_000008625.1	ASM862v1
+Bacillus_cereus	GCF_002220285.1	ASM222028v1
+Bacillus_methanolicus	GCF_000262755.1	ASM26275v1
+Bacillus_subtilis	GCF_000009045.1	ASM904v1
+Brevibacterium_linens	GCF_003999335.1	ASM399933v1
+Brevundimonas_diminuta	GCF_900445995.1	48290_B02
+Corynebacterium_glutamicum	GCF_000404185.1	ASM40418v1
+Chlamydia_trachomatis	GCF_000008725.1	ASM872v1
+Chlorobaculum_tepidum	GCF_000006985.1	ASM698v1
+Chloroflexus_aggregans	GCF_000021945.1	ASM2194v1
+Chloroflexus_aurantiacus	GCF_000018865.1	ASM1886v1
+Corynebacterium_efficiens	GCF_000011305.1	ASM1130v1
+Deferribacter_autotrophicus	GCF_008362905.1	ASM836290v1
+Deinococcus_radiodurans	GCF_020546685.1	ASM2054668v1
+Deinococcus_wulumuqiensis	GCF_011067105.1	ASM1106710v1
+Dietzia_alimentaria	GCF_000226215.1	ASM22621v2
+Dietzia_cinnamea	GCF_001571065.1	ASM157106v1
+Escherichia_coli	GCF_000005845.2	ASM584v2
+Flavobacterium_columnare	GCF_014844295.1	ASM1484429v1
+Flavobacterium_psychrophilum	GCF_013343195.2	ASM1334319v3
+Fulvimarina_pelagi	GCF_000153705.1	ASM15370v1
+Helicobacter_pylori	GCF_017821535.1	ASM1782153v1
+Methylacidiphilum_infernorum	GCF_000019665.1	ASM1966v1
+Micrococcus_luteus	GCF_019890915.1	ASM1989091v1
+Mycobacterium_marinum	GCF_016745295.1	ASM1674529v1
+Myxococcus_xanthus	GCF_000012685.1	ASM1268v1
+Neisseria_meningitidis	GCF_008330805.1	ASM833080v1
+Nitrosomonas_cryotolerans	GCF_900143275.1	IMG-taxon_2588253501
+Nitrospira_defluvii	GCF_905220995.1	NSPZN2
+Nostoc_punctiforme	GCF_000020025.1	ASM2002v1
+Pantoea_agglomerans	GCF_019048385.1	ASM1904838v1
+Pantoea_ananatis	GCF_000233595.1	ASM23359v1
+Paracoccus_denitrificans	GCF_000203895.1	ASM20389v1
+Prosthecochloris_vibrioformis	GCF_006265245.1	ASM626524v1
+Pseudescherichia_vulneris	GCF_902164725.1	25426_7_251
+Pseudomonas_putida	GCF_000412675.1	ASM41267v1
+Rhodobacter_capsulatus	GCF_000021865.1	ASM2186v1
+Rhodococcus_fascians	GCF_001620305.1	ASM162030v1
+Rhodopirellula_baltica	GCF_000196115.1	ASM19611v1
+Saccharolobus_solfataricus	GCF_003852155.1	ASM385215v1
+Salmonella_enterica	GCF_000006945.2	ASM694v2
+Sphingomonas_astaxanthinifaciens	GCF_000711715.1	ASM71171v1
+Spirochaeta_thermophila	GCF_000184345.1	ASM18434v2
+Spirulina_subsalsa	GCF_000314005.1	ASM31400v1
+Staphylococcus_xylosus	GCF_000709415.1	ASM70941v1
+Streptomyces_hygroscopicus	GCF_001705785.1	ASM170578v1
+Thermotoga_maritima	GCF_000230655.2	ASM23065v3
+Thermotoga_petrophila	GCF_000016785.1	ASM1678v1
+Treponema_denticola	GCF_000008185.1	ASM818v1
+Vibrio_cholerae	GCF_008369605.1	ASM836960v1
+Allomyces_macrogynus	GCA_000151295.1	A_macrogynus_V3
+Anncaliia_algerae	GCA_000385875.2	Annc_alge_insect_USDA_JJB_V2
+Aspergillus_niger	GCF_000002855.3	ASM285v2
+Batrachochytrium_dendrobatidis	GCF_000203795.1_v1.0
+Candida_albicans	GCF_000182965.3	ASM18296v3
+Cryptococcus_neoformans	GCF_000091045.1	ASM9104v1
+Encephalitozoon_cuniculi	GCF_000091225.1	ASM9122v1
+Fusarium_oxysporum	GCF_000271745.1	FO_FOSC_3_a_V1
+Nematocida_parisii	GCF_000250985.1	Nema_parisii_ERTm1_V3
+Neocallimastix_sp._JGI-2020a	GCA_016946835.1	ASM1694683v1
+Parastagonospora_nodorum	GCF_000146915.1	ASM14691v2
+Puccinia_striiformis	GCF_021901695.1	Pst134E36_v1_pri
+Racocetra_persica	GCA_910592285.1	Racocetra_persica_MA461A
+Rhizoctonia_solani	GCF_016906535.1	ASM1690653v1
+Rhizophagus_irregularis	GCF_000439145.1	ASM43914v3
+Rhizopus_microsporus	GCF_002708625.1	Rhimi1_1
+Saccharomyces_cerevisiae	GCF_000146045.2_R64
+Actinidia_chinensis	Phytozome
+Amborella_trichopoda	Phytozome
+Arabidopsis_thaliana	Phytozome
+Beta_vulgaris	Phytozome
+Brassica_napus	Phytozome
+Cajanus_cajan	Phytozome
+Capsicum_annuum	Phytozome
+Cicer_arietinum	Phytozome
+Citrus_sinensis	Phytozome
+Cucumis_sativus	Phytozome
+Daucus_carota	Phytozome
+Fragaria_vesca	Phytozome
+Gossypium_hirsutum	Phytozome
+Helianthus_annuus	Phytozome
+Malus_domestica	Phytozome
+Marchantia_polymorpha	Phytozome
+Medicago_truncatula	Phytozome
+Musa_acuminata	Phytozome
+Nicotiana_tabacum	Phytozome
+Oryza_sativa	Phytozome
+Physcomitrella_patens	Phytozome
+Populus_trichocarpa	Phytozome
+Prunus_persica	Phytozome
+Pyrus_x_bretschneideri	Phytozome
+Quercus_suber	Phytozome
+Ricinus_communis	Phytozome
+Rosa_chinensis	Phytozome
+Solanum_lycopersicum	Phytozome
+Solanum_tuberosum	Phytozome
+Spinacia_oleracea	Phytozome
+Theobroma_cacao	Phytozome
+Vitis_vinifera	Phytozome
+Zea_mays	Phytozome
