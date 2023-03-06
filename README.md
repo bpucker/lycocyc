@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/591767313.svg)](https://zenodo.org/badge/latestdoi/591767313)
+
 # LycoCyc
 Collection of scripts for lycopene cyclase analysis.
 
