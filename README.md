@@ -60,11 +60,11 @@ Usage:
   --out    STR   Output file
 ```
 
-`--motif` specifies the motif input file.
+`--motif` specifies the motif input file. This is a TAB-separated two-column text file. The first column contains the motif name and the second column contains the motif. The motif name should not contain any special characters. The motif can specify alternative residues by separating them with a slash and enclosed by square brackets. The motif will be turned into a regular expression for the search.
 
-`--seq` specifies the sequence input file.
+`--seq` specifies the sequence input file. This needs to be a FASTA file.
 
-`--out` specifies the output file.
+`--out` specifies the output file. This will be a text file containing a matrix with all sequences in rows and all motifs in columns.
 
 
 ## References
