@@ -47,6 +47,25 @@ Usage:
 `--name` specifies a file name prefix.
 
 
+## Motif scanner
+
+This script analyzes a given set of sequences (FASTA) for the presence of specified motifs (TXT).
+
+```
+Usage:
+  python motif_scanner.py --motif <FILE> --seq <FILE> --out <FILE>
+  
+  --motif  STR   Motif input file
+  --seq    STR   Sequence input file
+  --out    STR   Output file
+```
+
+`--motif` specifies the motif input file.
+
+`--seq` specifies the sequence input file.
+
+`--out` specifies the output file.
+
 
 ## References
 
