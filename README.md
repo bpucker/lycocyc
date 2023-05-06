@@ -68,5 +68,5 @@ Usage:
 
 
 ## References
+Göttl V., Pucker B., Wendisch V.F., Henke N.A. (2023). Screening of structurally distinct lycopene β-cyclases for production of the cyclic C40 carotenoids β-carotene and astaxanthin by Corynebacterium glutamicum. Journal of Agricultural and Food Chemistry. doi: [10.1021/acs.jafc.3c01492](https://doi.org/10.1021/acs.jafc.3c01492)
 
-This repository.
